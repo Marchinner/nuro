@@ -1,7 +1,7 @@
 #pragma once
 
 // tmp
-#define PROJECT_PATH "C:/Users/jonko/Dokumente/development/nuro/engine-editor/src/example"
+#define PROJECT_PATH "src/example"
 
 // Useful includes for applications using engine
 #include <glm.hpp>
